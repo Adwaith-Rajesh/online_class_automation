@@ -67,3 +67,9 @@ Here:
   JOIN_BUTTON = The join button is pressed to make join the class
   
   AVERAGE_DELAY is the delay between some actions that within which the website is allowed to load completely.
+  
+ 
+### At last run the classes.py file with this command
+```bash
+python3 classes.py
+```
