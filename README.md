@@ -7,7 +7,7 @@ Allows me to join my online classes accordingly
 To use this project, download the git repo and open the terminal and run.
 
 ```bash
-pip3 install ptautogui
+pip3 install pyautogui
 ```
 after the installation make a file named class_code.py which has a dict named meet_code.
 
