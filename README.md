@@ -2,4 +2,4 @@
 Allows me to join my online classes accordingly
 
 
-# Uses pyAut0ui to join my online classes.
+# Uses pyAutGui to join my online classes.
