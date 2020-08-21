@@ -9,7 +9,7 @@ To use this project, download the git repo and open the terminal and run.
 ```bash
 pip3 install ptautogui
 ```
-after the installation maker a file name class_code.py which has a dict named meet_code.
+after the installation make a file named class_code.py which has a dict named meet_code.
 
 ```python
 meet_code = {
