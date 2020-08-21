@@ -7,7 +7,6 @@ import json
 
 MEET_ICON_POS = (29, 517)  # (x, y)
 TEXT_BOX = (1103, 469)  # The box where the code for the meeting has to typed
-TEXT_BOX = (422, 587)
 MUTE_MIC_ICON_POS = (463, 672)
 CAMERA_OFF_ICON_POS = (542, 677)
 JOIN_BUTTON = (1072, 509)
